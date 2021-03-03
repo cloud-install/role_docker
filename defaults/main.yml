@@ -32,6 +32,7 @@ docker_apps_codeserver_port: 9011
 docker_apps_portainer_port: 9000
 docker_apps_onlyofficedocumentserver_port: 9002
 
+docker_apps_commands: ""
 
 
 docker_apps_dir: "/data/apps"
